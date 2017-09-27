@@ -7,17 +7,7 @@
 # 许转发和收藏，否则跳转到登录界面。
 
 
-public interface UserState {
-    /**
-     * collect为收藏
-     *
-     * transmit为转发
-     * @param context
-     */
-
-
     void collect(Context context);
 
     void transmit(Context context);
-}
 
