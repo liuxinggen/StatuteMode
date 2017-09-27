@@ -6,8 +6,3 @@
 # 处理方式是不同的。例如，在转发和收藏某个信息的时候，首先会检测用户是否登录，如果登录则允
 # 许转发和收藏，否则跳转到登录界面。
 
-
-    void collect(Context context);
-
-    void transmit(Context context);
-
